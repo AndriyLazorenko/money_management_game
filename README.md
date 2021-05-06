@@ -1,5 +1,5 @@
-##A simple coin game 
-####(implementation from money management book)
+## A simple coin game 
+#### (implementation from money management book)
 
 
 see at the bottom of the file for 2 main methods of the repo.
